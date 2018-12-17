@@ -1,0 +1,5 @@
+# lightdm doesn't source ~/.profile
+# so source it here
+if [ -f ~/.profile ]; then
+    . ~/.profile
+fi
