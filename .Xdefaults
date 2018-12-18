@@ -1,6 +1,7 @@
 URxvt.scrollBar: false
 URxvt.font: xft:IBM Plex Mono:style=text:size=10
-URxvt.background: [30]#2C2C2C
+URxvt.depth: 32
+URxvt.background: [70]#2C2C2C
 URxvt.foreground: #DCDCCC
 ! black
 URxvt.color0  : #3F3F3F
